@@ -3,5 +3,8 @@
 ### DSA sheet 
 
 ## 1. Array
- [TwoSum]   - https://leetcode.com/problems/two-sum/description/
+ [TwoSumq]   - https://leetcode.com/problems/two-sum/description/
 
+ 
+## 2. ReverseString
+-[ReverseString]  https://leetcode.com/problems/reverse-string/
