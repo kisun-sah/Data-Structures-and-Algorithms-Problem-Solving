@@ -3,8 +3,11 @@
 ### DSA sheet 
 
 ## 1. Array
- [TwoSumq]   - https://leetcode.com/problems/two-sum/description/
+ [TwoSum.js]   - https://leetcode.com/problems/two-sum/description/
 
  
 ## 2. ReverseString
--[ReverseString]  https://leetcode.com/problems/reverse-string/
+-[ReverseString.js]  https://leetcode.com/problems/reverse-string/
+
+## 3. Sumtwo2
+-[(3-Sumtwo2.js)]   https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1205226490/
