@@ -1,1 +1,1 @@
-# Data-Structures-and-Algorithms-Problem-Solving
+# Data Structures and Algorithms-Problem-Solving
