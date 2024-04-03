@@ -7,11 +7,14 @@
 - [ReverseString]( https://leetcode.com/problems/reverse-string/)
 - [Sumtwo2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1205226490/)
 - [SquareSortedArray](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [Sortedfunction]
+- [Sortedfunction]()
 - [ValidAnagram](https://leetcode.com/problems/valid-anagram/submissions/1206322732/)
 
+## 2. String
+- [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
 
-## 2. Sorted 
+
+## 3. Sorted 
 - [inseartionsort]()
 - [selectionSort]()
 - [BubbleSort]()
