@@ -9,6 +9,7 @@
 - [SquareSortedArray](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [Sortedfunction]()
 - [ValidAnagram](https://leetcode.com/problems/valid-anagram/submissions/1206322732/)
+- [RemovedublicateArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 
 ## 2. String
 - [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
