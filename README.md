@@ -13,7 +13,7 @@
 
 ## 2. String
 - [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
-
+- [makegoodString](https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05)
 
 ## 3. Sorted 
 - [inseartionsort]()
