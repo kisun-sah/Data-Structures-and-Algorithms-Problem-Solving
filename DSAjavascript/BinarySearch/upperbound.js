@@ -3,7 +3,7 @@
   * @param {*x is the element expected to be found } x 
   */
 
-function binarySearch2 (arr ,x){
+function upperbound(arr ,x){
 
     let n = arr.length;
     // declare  the search space 
@@ -31,4 +31,4 @@ function binarySearch2 (arr ,x){
    
     let arr = [1,2,12,14,30,54,57,59,60,70];
 
-    console.log("index:",binarySearch2(arr,2));
+    console.log("index:",upperbound(arr,2));

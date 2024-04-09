@@ -26,3 +26,7 @@
 - [upperboundSearch](https://pastebin.com/5z3HE2E8)
 - [lowerboundSesrch](https://pastebin.com/Nj79Mnqz)
 - [first&lastpositionSearch](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1227608483/)
+- [Search2Dmatrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- [SearchInsertPosition](https://leetcode.com/problems/search-insert-position/description/)
+- [Guess-Num-higher-lower](https://leetcode.com/problems/guess-number-higher-or-lower/description)
+- [ArrangingCoin](https://leetcode.com/problems/arranging-coins/submissions/1228015361/)

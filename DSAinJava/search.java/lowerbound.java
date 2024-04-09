@@ -12,17 +12,13 @@ public class lowerbound {
      * 
      */
 
-     public static int  binarySearch (int[]arr ,int x) {
+     public static int  lowerbound(int[]arr ,int x) {
        int n= arr.length;
-
-
-        //declare the search space 
-
         int lo = 0, hi =n-1;
-        int ans =arr.length;
+        int ans =n;
 
         while (lo<=hi) {
-            int mid=(lo+hi)/2;
+            int mid=lo+(hi-lo)/2;
             
             if(arr[mid]<x){
                 //we need to discard the left 
@@ -45,7 +41,7 @@ public class lowerbound {
         
         int[] arr ={-6,1,3,5,6,8,9,12,23,34,56,78,89,90,98};
         
-        System.out.println(binarySearch(arr ,7));
+        System.out.println(lowerbound(arr ,7));
     }
 
 

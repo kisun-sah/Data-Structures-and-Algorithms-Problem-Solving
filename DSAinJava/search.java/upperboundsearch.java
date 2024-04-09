@@ -10,7 +10,7 @@ public class upperboundsearch {
      * 
      */
 
-     public static int  binarySearch (int[]arr ,int x) {
+     public static int  upperbound (int[]arr ,int x) {
         int n= arr.length;
  
  
@@ -43,7 +43,7 @@ public class upperboundsearch {
          
          int[] arr = {-6,1,3,5,6,8,9,12,23,34,56,78,89,90,98};
          
-         System.out.println(binarySearch(arr ,7));
+         System.out.println(upperbound(arr ,7));
      }
     
 }
