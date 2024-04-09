@@ -20,3 +20,9 @@
 - [selectionSort]()
 - [BubbleSort]()
 - [merge2sortedarray](https://leetcode.com/problems/merge-sorted-array/)
+
+## 4. Search
+- [Binarysearch]
+- [upperboundSearch]
+- [lowerboundSesrch]
+- [first&lastpositionSearch](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1227608483/)
