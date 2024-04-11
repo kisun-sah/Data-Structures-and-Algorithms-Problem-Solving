@@ -30,3 +30,5 @@
 - [SearchInsertPosition](https://leetcode.com/problems/search-insert-position/description/)
 - [Guess-Num-higher-lower](https://leetcode.com/problems/guess-number-higher-or-lower/description)
 - [ArrangingCoin](https://leetcode.com/problems/arranging-coins/submissions/1228015361/)
+- [Valid-Perfect-Sqr](https://leetcode.com/problems/valid-perfect-square/)
+- [FindPickElement](https://leetcode.com/problems/find-peak-element/description/)

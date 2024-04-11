@@ -17,10 +17,10 @@ public class upperboundsearch {
          //declare the search space 
  
          int lo = 0, hi =n-1;
-         int ans =arr.length;
+         int ans =n;
  
          while (lo<=hi) {
-             int mid=(lo+hi)/2;
+             int mid=lo+(hi-lo)/2;
              
              if(arr[mid]<=x){
                  //we need to discard the left 
@@ -43,7 +43,7 @@ public class upperboundsearch {
          
          int[] arr = {-6,1,3,5,6,8,9,12,23,34,56,78,89,90,98};
          
-         System.out.println(upperbound(arr ,7));
+         System.out.println(upperbound(arr ,1));
      }
     
 }
