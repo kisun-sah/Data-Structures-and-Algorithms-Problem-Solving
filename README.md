@@ -32,3 +32,5 @@
 - [ArrangingCoin](https://leetcode.com/problems/arranging-coins/submissions/1228015361/)
 - [Valid-Perfect-Sqr](https://leetcode.com/problems/valid-perfect-square/)
 - [FindPickElement](https://leetcode.com/problems/find-peak-element/description/)
+- [kokoEatingBananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [SuccessPairSpells&potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)
