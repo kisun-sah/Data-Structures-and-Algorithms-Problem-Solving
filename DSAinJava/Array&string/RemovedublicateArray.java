@@ -6,7 +6,7 @@
  * 
  * 
  */
-class Solution {
+class removeDuplicateArray {
     public int removeDuplicates(int[] nums) {
         
 
