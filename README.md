@@ -44,3 +44,10 @@
 - [FindMinRoted-SortArray](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [PeakIndexIn-MountainArray](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [SearchRotatedSortArray||](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [Medianof-TwoSortedArray](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+
+
+## Dynamic Programming 
+
+- [Fibonacci-Number](https://leetcode.com/problems/fibonacci-number/)
+- [coin-change](https://leetcode.com/problems/coin-change/)
