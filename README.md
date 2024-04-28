@@ -51,3 +51,5 @@
 
 - [Fibonacci-Number](https://leetcode.com/problems/fibonacci-number/)
 - [coin-change](https://leetcode.com/problems/coin-change/)
+- [Perfect-Sqre](https://leetcode.com/problems/perfect-squares/description/)
+- [MinimumCost-forTicket](https://leetcode.com/problems/minimum-cost-for-tickets/)
