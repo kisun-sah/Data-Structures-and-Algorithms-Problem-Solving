@@ -53,3 +53,6 @@
 - [coin-change](https://leetcode.com/problems/coin-change/)
 - [Perfect-Sqre](https://leetcode.com/problems/perfect-squares/description/)
 - [MinimumCost-forTicket](https://leetcode.com/problems/minimum-cost-for-tickets/)
+- [triangle](https://leetcode.com/problems/triangle/)
+- [Combination-ofSum-lv](https://leetcode.com/problems/combination-sum-iv/description/)
+- [Longest-Increasing-Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
