@@ -56,3 +56,8 @@
 - [triangle](https://leetcode.com/problems/triangle/)
 - [Combination-ofSum-lv](https://leetcode.com/problems/combination-sum-iv/description/)
 - [Longest-Increasing-Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [Climbing-Stairs-TU](https://leetcode.com/problems/climbing-stairs/)
+- [Climbing-Stairs_Bu](https://leetcode.com/problems/climbing-stairs/)
+- [MinCost-Climbing-Stairs_TU](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1246861474/)
+- [MinCost-Climbing-Stairs_Bu](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1246861474/)
+- [House-Robber_TU](https://leetcode.com/problems/house-robber/)
