@@ -61,3 +61,5 @@
 - [MinCost-Climbing-Stairs_TU](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1246861474/)
 - [MinCost-Climbing-Stairs_Bu](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/1246861474/)
 - [House-Robber_TU](https://leetcode.com/problems/house-robber/)
+- [Earn&Delete](https://leetcode.com/problems/delete-and-earn/)
+-  [N-th-TribonacciNumber](https://leetcode.com/problems/n-th-tribonacci-number/)
