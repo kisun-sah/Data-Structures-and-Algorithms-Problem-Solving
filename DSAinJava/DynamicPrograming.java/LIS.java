@@ -21,7 +21,7 @@ public class LIS {
         for(int j =0; j<= i-1; j++){
            if(arr[j] < arr[i]){
 
-            result = Math.max(result ,1+ f(j));
+            result = Math.max(result , 1+ f(j));
            }
         }
         return dp[i] =result;
