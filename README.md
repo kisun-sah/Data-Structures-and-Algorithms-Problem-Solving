@@ -10,6 +10,7 @@
 - [Sortedfunction]()
 - [ValidAnagram](https://leetcode.com/problems/valid-anagram/submissions/1206322732/)
 - [RemovedublicateArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+- [Remove-Element](https://leetcode.com/problems/remove-element/submissions/1253903557/)
 
 ## 2. String
 - [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
@@ -70,3 +71,7 @@
 - [Unique-Path](https://leetcode.com/problems/unique-paths/)
 - [Unique-Path-II](https://leetcode.com/problems/unique-paths-ii/)
 - [painting-the-Walls](https://leetcode.com/problems/painting-the-walls/)
+- [ArthimeticSlices2-Sebsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+
+## Link-List 
+- [Design-Link-List](https://leetcode.com/problems/design-linked-list/)
