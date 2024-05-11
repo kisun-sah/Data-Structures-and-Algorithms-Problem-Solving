@@ -2,7 +2,13 @@
 
 ### DSA sheet 
 
-## 1. Array
+## 1. Array & String
+- [Transpors-matrix](https://leetcode.com/problems/transpose-matrix/submissions/1255549696/)
+- [Largest.odd-NumberString](https://leetcode.com/problems/largest-odd-number-in-string/)
+- [Count-ofMatches-inTournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
+- [largest-3-same-Digit-String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)
+- [findWordThatCanBeFormed-asACharacter](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/submissions/1255457110/)
+- [Find-The-Difference](https://leetcode.com/problems/find-the-difference/submissions/1255418853/)
 - [TwoSum](https://leetcode.com/problems/two-sum/description/)
 - [ReverseString]( https://leetcode.com/problems/reverse-string/)
 - [Sumtwo2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1205226490/)
@@ -11,8 +17,6 @@
 - [ValidAnagram](https://leetcode.com/problems/valid-anagram/submissions/1206322732/)
 - [RemovedublicateArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 - [Remove-Element](https://leetcode.com/problems/remove-element/submissions/1253903557/)
-
-## 2. String
 - [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
 - [makegoodString](https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05)
 
