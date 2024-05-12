@@ -2,7 +2,11 @@
 
 ### DSA sheet 
 
-## 1. Array & String
+## 1. Array & String(All are Easy mark problem )
+- [Valid-Anagram](https://leetcode.com/problems/valid-anagram/)
+- [DestinationCity](https://leetcode.com/problems/destination-city/description/)
+- [spacial-positionIn-aBinaryMAtrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)
+- [Maximum-productof-TwoElement](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [Transpors-matrix](https://leetcode.com/problems/transpose-matrix/submissions/1255549696/)
 - [Largest.odd-NumberString](https://leetcode.com/problems/largest-odd-number-in-string/)
 - [Count-ofMatches-inTournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
