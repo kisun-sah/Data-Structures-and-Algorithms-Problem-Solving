@@ -83,3 +83,7 @@
 
 ## Link-List 
 - [Design-Link-List](https://leetcode.com/problems/design-linked-list/)
+- [Delete-node-inaLinklist](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+- [Deletenode-from-middle](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [Remove-NthNode-fromEndoflist](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1258096936/)
+- [Remove-Linklist-Element](https://leetcode.com/problems/remove-linked-list-elements/)
