@@ -87,3 +87,9 @@
 - [Deletenode-from-middle](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Remove-NthNode-fromEndoflist](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1258096936/)
 - [Remove-Linklist-Element](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Design-Browser-History](https://leetcode.com/problems/design-browser-history/)
+- [RemoveFrom-Sorted-List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [Removing-StarFrom-String](https://leetcode.com/problems/removing-stars-from-a-string/)
+
+## Stack
+- [Maximum Freq stack](https://leetcode.com/problems/maximum-frequency-stack/)

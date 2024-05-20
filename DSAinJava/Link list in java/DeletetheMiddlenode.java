@@ -1,3 +1,4 @@
+import java.util.*;
 /**
  * leetcode problem no:2095
  * solution link(https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
