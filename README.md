@@ -93,3 +93,12 @@
 
 ## Stack
 - [Maximum Freq stack](https://leetcode.com/problems/maximum-frequency-stack/)
+- [valid parantheses](https://leetcode.com/problems/valid-parentheses/)
+- [Build An Array with Stack-Operation](https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/1267832471/)
+
+
+## Queue
+ - [ Implement Queue]()
+ - [Design Front,End&Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)
+ - [Implement Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
+ - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
