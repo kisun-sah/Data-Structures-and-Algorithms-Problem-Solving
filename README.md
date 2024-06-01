@@ -23,6 +23,7 @@
 - [Remove-Element](https://leetcode.com/problems/remove-element/submissions/1253903557/)
 - [isomorphicString](https://leetcode.com/problems/isomorphic-strings/)
 - [makegoodString](https://leetcode.com/problems/make-the-string-great/description/?envType=daily-question&envId=2024-04-05)
+- [Find first unique char in string](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 ## 3. Sorted 
 - [inseartionsort](https://pastebin.com/XfXa0npg)
@@ -102,3 +103,4 @@
  - [Design Front,End&Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)
  - [Implement Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
  - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+ - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
