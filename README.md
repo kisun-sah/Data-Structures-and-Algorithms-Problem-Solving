@@ -104,3 +104,12 @@
  - [Implement Queue](https://leetcode.com/problems/implement-queue-using-stacks/)
  - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
  - [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
+ - [LRUqueue](https://leetcode.com/problems/lru-cache/)
+
+
+ ## Binary Tree
+ - [Level order levelwiser](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+ - [BinaryTree RightSide view](https://leetcode.com/problems/binary-tree-right-side-view/)
+ - [BinaryTree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+ - [BinaryTree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+ - [BinaryTree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
