@@ -126,3 +126,8 @@
  - [Find Dublicate SubTree](https://leetcode.com/problems/find-duplicate-subtrees/)
  - [Fill Equvivalent BinaryTree](https://leetcode.com/problems/flip-equivalent-binary-trees/)
  - [House Rober 3](https://leetcode.com/problems/house-robber-iii/submissions/1284880634/)
+
+ ## Binary Search Tree
+ - [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+ - [Construct from String BinaryTree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+ - [Kth Smallest Element BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
