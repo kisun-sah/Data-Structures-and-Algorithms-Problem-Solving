@@ -131,3 +131,7 @@
  - [Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
  - [Construct from String BinaryTree](https://leetcode.com/problems/construct-string-from-binary-tree/)
  - [Kth Smallest Element BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+ - [Convert List into BinaryTree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+ - [Search in BinarySearchTree recursive](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  - [Search in BinarySearchTree iterative](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  - [Delete Node in a BinarySearchTree](https://leetcode.com/problems/delete-node-in-a-bst/)
