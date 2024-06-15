@@ -135,3 +135,4 @@
  - [Search in BinarySearchTree recursive](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - [Search in BinarySearchTree iterative](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - [Delete Node in a BinarySearchTree](https://leetcode.com/problems/delete-node-in-a-bst/)
+  - [BinaryTree Maximum Search Path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
