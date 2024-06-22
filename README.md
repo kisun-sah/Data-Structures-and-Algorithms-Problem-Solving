@@ -136,3 +136,15 @@
   - [Search in BinarySearchTree iterative](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - [Delete Node in a BinarySearchTree](https://leetcode.com/problems/delete-node-in-a-bst/)
   - [BinaryTree Maximum Search Path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+
+
+  ## Graph 
+  - [Graph]()
+  - [adjececyMatrix]()
+  - [ShortCut Graph]()
+  - [Find if Path Exits in Graph DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+   - [Find if Path Exits in Graph BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+
+   ## Trie
+   - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
