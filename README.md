@@ -145,6 +145,10 @@
   - [ShortCut Graph]()
   - [Find if Path Exits in Graph DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
    - [Find if Path Exits in Graph BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+   - [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
    ## Trie
    - [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+   ## Hips
+   - [hire oo employ in minimum cost](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
