@@ -152,3 +152,7 @@
 
    ## Hips
    - [hire oo employ in minimum cost](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
+
+   ## Recursion 
+   - [509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+   - [231 Power of two](https://leetcode.com/problems/power-of-two/submissions/1565932901/)
