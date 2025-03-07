@@ -156,3 +156,5 @@
    ## Recursion 
    - [509 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
    - [231 Power of two](https://leetcode.com/problems/power-of-two/submissions/1565932901/)
+   - [50 pow ](https://leetcode.com/problems/powx-n/)
+   - [326 Power of Three](https://leetcode.com/problems/power-of-three/submissions/1566195257/)
